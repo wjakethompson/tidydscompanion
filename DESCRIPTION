@@ -28,6 +28,8 @@ Imports:
     here (>= 0.1),
     hms (>= 0.4.2),
     lubridate (>= 1.7.4),
+    maps (>= 3.3.0),
+    mapproj (>= 1.2.6),
     modelr (>= 0.1.4),
     nycflights13 (>= 1.0.0),
     purrr (>= 0.3.2),
