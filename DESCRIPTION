@@ -16,7 +16,7 @@ License: file LICENSE
 URL: https://github.com/wjakethompson/jayhawkdown
 BugReports: https://github.com/wjakethompson/jayhawkdown/issues
 Depends:
-    R (>= 3.6.0)
+    R (>= 3.5.0)
 Imports:
     babynames (>= 1.0.0),
     broom (>= 0.5.2),
