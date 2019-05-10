@@ -1,0 +1,45 @@
+Package: tidydscompanion
+Title: A Companion Package For Using R And The Tidyverse For
+    Data Science
+Version: 0.0.1
+Authors@R: 
+    person(given = "W. Jake",
+           family = "Thompson",
+           role = c("aut", "cre"),
+           email = "wjakethompson@gmail.com",
+           comment = c(ORCID = "0000-0001-7339-0300"))
+Description: This package contains data sets for the
+    workshop "Using R and the tidyverse for Data Science." In addition,
+    installing this package will also ensure that all required packages
+    are also installed.
+License: CC-BY-SA
+URL: https://github.com/wjakethompson/jayhawkdown
+BugReports: https://github.com/wjakethompson/jayhawkdown/issues
+Depends:
+    R (>= 3.6.0)
+Imports:
+    babynames,
+    broom,
+    dplyr,
+    fivethirtyeight,
+    forcats,
+    gapminde
+    ggplot2,
+    here,
+    hms,
+    lubridate,
+    modelr,
+    nycflights13,
+    purrr,
+    readr,
+    rsample,
+    skimr,
+    stringr,
+    tibble,
+    tidyr,
+    viridis
+Remotes:
+    tidyverse/tidyr
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
