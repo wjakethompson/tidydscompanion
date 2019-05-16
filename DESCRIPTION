@@ -50,6 +50,7 @@ Suggests:
     lintr (>= 1.0.3),
     testthat (>= 2.1.1)
 Remotes:
+    clauswilke/colorblindr,
     r-lib/rlang,
     tidyverse/tidyr
 Encoding: UTF-8
