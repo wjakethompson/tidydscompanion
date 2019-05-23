@@ -47,6 +47,7 @@ Imports:
     tidyr (>= 0.8.3.9000),
     viridis (>= 0.5.1)
 Suggests:
+    hexbin (>= 1.27.2),
     lintr (>= 1.0.3),
     testthat (>= 2.1.1)
 Remotes:
